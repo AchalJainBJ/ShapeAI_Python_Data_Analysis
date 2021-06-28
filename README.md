@@ -3,8 +3,6 @@ Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
 The instructor during the session was Nandini Jalan (Ex-Intern at GOOGLE). I got to
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
-<br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://www.youtube.com/watch?v=Ar43AiqTTQc"> <img src="https://yt3.ggpht.com/mfhZeHFpQ7aJ6r4ERCpHCC_rBzxFxXxnNPpLiIhxxXDGHg3xH22_vEWRewIPICtfcTuNqZN8tQ=s88-c-k-c0x00ffffff-no-rj"> </a>
 <br>I got to have hands on experience on:
 <li>Python
 <li>Data Analysis
